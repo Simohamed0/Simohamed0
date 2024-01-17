@@ -35,15 +35,7 @@ VISITOR COUNT  :      ![Visitor Count](https://profile-counter.glitch.me/{Simoha
 <img src="https://github.com/jmnote/z-icons/blob/master/svg/github.svg" alt="github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux" height="45" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="windows" height="45" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="45" style="vertical-align:top; margin:4px">
-<img src="https://github.com/jmnote/z-icons/blob/master/svg/r.svg" alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/jmnote/z-icons/blob/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/jmnote/z-icons/blob/master/svg/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/jmnote/z-icons/blob/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" height="45" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/7ebde642c65d74f93f46c7e3f4c0ef5e19c961b6/topics/mongodb/mongodb.png" alt="MongoDB" height="45" style="vertical-align:top; margin:4px">
 <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" height="45" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/91f6de37b0663a4f32bcb2f469e19c1cfbea11a9/topics/javascript/javascript.png" alt="JavaScript" height="45" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
